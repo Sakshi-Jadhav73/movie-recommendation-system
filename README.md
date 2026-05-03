@@ -22,8 +22,7 @@ This project is a Movie Recommendation System that suggests similar movies based
 ---
 
 ## 📊 Dataset
-- TMDB 5000 Movies Dataset  
-- TMDB 5000 Credits Dataset  
+- TMDB 5000 Movies Dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata 
 
 > ⚠️ Dataset not included due to size limitations. You can download it from Kaggle.
 
